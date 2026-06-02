@@ -105,10 +105,11 @@ Source: Olist Brazilian E-Commerce Public Dataset
 
 Provides a high-level view of revenue, orders, customers, product performance, and geographic distribution.
 Dashboard_Screenshots/Customer & review analysis.png
+
 ### Customer & Review Analysis
 
 Analyzes customer satisfaction, review patterns, and the impact of delivery performance on ratings.
-
+![Executive Overview](Dashboard_Screenshots/Customer & review analysis.png)
 ### Seller & Delivery Analysis
 
 Evaluates seller performance, delivery efficiency, and operational KPIs.
