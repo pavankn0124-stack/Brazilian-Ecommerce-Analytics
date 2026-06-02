@@ -104,18 +104,32 @@ Source: Olist Brazilian E-Commerce Public Dataset
 ### Executive Overview
 
 Provides a high-level view of revenue, orders, customers, product performance, and geographic distribution.
-Dashboard_Screenshots/Customer & review analysis.png
+
 
 ### Customer & Review Analysis
 
 Analyzes customer satisfaction, review patterns, and the impact of delivery performance on ratings.
-![Executive Overview](Dashboard_Screenshots/Customer & review analysis.png)
+
 ### Seller & Delivery Analysis
 
 Evaluates seller performance, delivery efficiency, and operational KPIs.
 
 ---
+## Dashboard Screenshots
 
+### Executive Overview
+
+![Executive Overview](Dashboard_Screenshots/Executive_overview.png)
+
+### Customer & Review Analysis
+
+![Customer & Review Analysis](Dashboard_Screenshots/Customer & review analysis.png)
+
+### Seller & Delivery Analysis
+
+![Seller & Delivery Analysis](Dashboard_Screenshots/Seller & delivery analysis.png)
+
+---
 ## SQL Concepts Demonstrated
 
 * Joins
