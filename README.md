@@ -127,7 +127,7 @@ Evaluates seller performance, delivery efficiency, and operational KPIs.
 
 ### Seller & Delivery Analysis
 
-![Seller & Delivery Analysis](Dashboard_Screenshots/Seller & delivery analysis.png)
+![Seller & Delivery Analysis](Dashboard_Screenshots/Seller_and_delivery_analysis.png)
 
 ---
 ## SQL Concepts Demonstrated
