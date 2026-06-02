@@ -123,7 +123,7 @@ Evaluates seller performance, delivery efficiency, and operational KPIs.
 
 ### Customer & Review Analysis
 
-![Customer & Review Analysis](Dashboard_Screenshots/Customer & review analysis.png)
+![Customer & Review Analysis](Dashboard_Screenshots/Customer_and_review_analysis.png)
 
 ### Seller & Delivery Analysis
 
